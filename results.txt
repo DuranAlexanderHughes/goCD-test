@@ -1,0 +1,7 @@
+Log of Results
+================================================ 
+This test was run at: Wed 07/31/2019 15:38:07.33 
+This test was run at: Wed 07/31/2019 15:38:16.47 
+This test was run at: Wed 07/31/2019 15:38:58.03 
+This test was run at: Wed 07/31/2019 15:39:09.25 
+This test was run at: Wed 07/31/2019 15:41:36.33 
